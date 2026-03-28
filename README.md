@@ -1,4 +1,4 @@
-# 📘 Digital Literacy & Professional Development Project
+# Digital Literacy & Professional Development Project
 
 ## Student Details
 - **Name:** Akanksha Sharma  
